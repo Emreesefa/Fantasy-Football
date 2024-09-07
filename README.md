@@ -1,16 +1,10 @@
-# fantasy_football_app123
+*Fantasy Futbol Uygulaması*
 
-A new Flutter project.
 
-## Getting Started
+Bu proje, kullanıcılara kendi hayali futbol takımlarını oluşturma, oyuncu seçme, takım kadrosunu yönetme ve puan kazanma şansı sunan bir Fantasy Futbol uygulamasıdır. Kullanıcılar haftalık maçlara göre puan alır ve ligdeki diğer oyuncularla rekabet edebilirler.
 
-This project is a starting point for a Flutter application.
+*Özellikler*
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Takım Kurma: Kullanıcılar belirli bir bütçeyle oyuncu seçimi yaparak kendi kadrolarını oluşturabilir.
+Haftalık Puanlama: Gerçek futbol maçlarına dayalı olarak oyuncuların performansına göre puan kazanılır.
+Oyuncu Transferi: Kullanıcılar sezon boyunca oyuncu transferi yapabilir.
